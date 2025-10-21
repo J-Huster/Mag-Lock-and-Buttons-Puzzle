@@ -28,6 +28,8 @@ The Raspberry Pi connects to a relay module (acts as a switch between low and hi
 
 (attached wiring image only includes wiring for the electromagnetic lock, it doesn't include wiring for the buttons)
 
+## How to run
+Run python3 lockButtons.py
 
 ## Resources
 https://newbiely.com/tutorials/raspberry-pi/raspberry-pi-electromagnetic-lock
